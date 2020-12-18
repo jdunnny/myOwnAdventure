@@ -1,0 +1,12 @@
+
+h1{
+	border-style: double;
+	text-align: center;
+}
+h2{
+	font-style: italic;
+}
+body{
+	background-color: #E2E2D8;
+	padding: 50px;
+	font-family:serif;

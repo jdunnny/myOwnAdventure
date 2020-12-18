@@ -1,0 +1,29 @@
+
+h3{
+	font-style: bold;
+	text-align: center;
+	font-family: Verdana;
+}
+h4{
+	font-style: italic;
+	text-align: center;
+}
+body{
+	background-color: #E2E2D8;
+	padding: 50px;
+	font-family:serif;
+
+}
+.column {
+	float:left;  
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+p{
+	line-height: 1.8;
+}
